@@ -1,0 +1,6 @@
+{
+  "name": "FinPilot – Smart Expense Tracker",
+  "description": "Full-stack personal expense tracker built with Core Java HttpServer, JDBC, MySQL, and responsive HTML5/CSS3/Vanilla JS frontend with interactive charts and placement guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
